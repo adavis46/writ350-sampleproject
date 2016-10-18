@@ -24,7 +24,7 @@ Progress Report | Due
 
 2. Using screenrecorders and other tools for component 2 of the project
 
-3. Introduce Git bash/Github desktop and advanced technical project management 
+3. Have a fun party 
 
 **Deliverables:**
 
