@@ -17,7 +17,19 @@ Progress Report | Due
 3 | 10-20
 4 | 10-24
 
+## Tuesday 10-18
 
+**Focus Points:**
+
+1. Using rich media content in Github markdown syntax/ correcting beta of component 1
+
+2. Using screenrecorders and other tools for component 2 of the project
+
+3. Introduce Git bash/Github desktop and advanced technical project management 
+
+**Deliverables:**
+
+1. Progress Report 2 (including individual team member status reports)
 
 ## Tuesday 10-11
 
