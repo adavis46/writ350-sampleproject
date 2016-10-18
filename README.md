@@ -1,5 +1,5 @@
 
-### Note: Do not pull from this branch; for project-related files, pull from [https://github.com/adavis46/writ350-fa16/blob/branch/project-components](project-components) branch. 
+### Note: Do not pull from this branch; for project-related files, pull from [https://github.com/adavis46/writ350-fa16/tree/project-components](project-components) branch. 
 
 # writ350-fa16 Schedule 
 Deliverable | Deadline
