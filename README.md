@@ -38,7 +38,7 @@ Progress Report | Due
 
 2. Introduce guidelines and specifications for technical documents
 
-3. Issue team progress report 1 (master template --> https://github.com/adavis46/writ350-fa16/blob/master/team_documents/reports.md) 
+3. Issue team progress report 1 (master template --> https://github.com/adavis46/writ350-fa16/blob/project-components/team_documents/reports.md) 
 
 **Deliverables:**
 
